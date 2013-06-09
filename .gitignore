@@ -1,0 +1,6 @@
+app/etc/local.xml
+.DS_Store
+media/*
+var
+.idea/*
+.idea
