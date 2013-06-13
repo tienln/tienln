@@ -1,6 +1,6 @@
 <?php
 /**
- * Magento
+ * Magento - tuhn
  *
  * NOTICE OF LICENSE
  *
